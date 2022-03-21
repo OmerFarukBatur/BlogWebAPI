@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vOGQo/FuWzlgz8sUnsNeltiIoZKjlxMmb2I1Z3btd/DBQ6lWZQiopntaBNGQZpD4YqWKaNSIkrms6m48E0RneQ==",
+  "dgSpecHash": "atQlOhtzBYpbpcVu9yzX26RhqSbpZPNtNQ0sQ4wKK29zR396pUHgLWICSW+CaHqBStTNriEOLd+Blr1a1atRfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Infrastructure\\BlogWebAPI.Infrastructure\\BlogWebAPI.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Infrastructure\\BlogWebAPI.Infrastructure\\BlogWebAPI.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

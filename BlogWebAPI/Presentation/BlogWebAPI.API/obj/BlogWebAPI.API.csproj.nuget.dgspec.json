@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Presentation\\BlogWebAPI.API\\BlogWebAPI.API.csproj": {}
+    "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Presentation\\BlogWebAPI.API\\BlogWebAPI.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Core\\BlogWebAPI.Application\\BlogWebAPI.Application.csproj": {
+    "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Core\\BlogWebAPI.Application\\BlogWebAPI.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Core\\BlogWebAPI.Application\\BlogWebAPI.Application.csproj",
+        "projectUniqueName": "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Core\\BlogWebAPI.Application\\BlogWebAPI.Application.csproj",
         "projectName": "BlogWebAPI.Application",
-        "projectPath": "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Core\\BlogWebAPI.Application\\BlogWebAPI.Application.csproj",
+        "projectPath": "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Core\\BlogWebAPI.Application\\BlogWebAPI.Application.csproj",
         "packagesPath": "C:\\Users\\testinium\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Core\\BlogWebAPI.Application\\obj\\",
+        "outputPath": "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Core\\BlogWebAPI.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\testinium\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Core\\BlogWebAPI.Domain\\BlogWebAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Core\\BlogWebAPI.Domain\\BlogWebAPI.Domain.csproj"
+              "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Core\\BlogWebAPI.Domain\\BlogWebAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Core\\BlogWebAPI.Domain\\BlogWebAPI.Domain.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Core\\BlogWebAPI.Domain\\BlogWebAPI.Domain.csproj": {
+    "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Core\\BlogWebAPI.Domain\\BlogWebAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Core\\BlogWebAPI.Domain\\BlogWebAPI.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Core\\BlogWebAPI.Domain\\BlogWebAPI.Domain.csproj",
         "projectName": "BlogWebAPI.Domain",
-        "projectPath": "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Core\\BlogWebAPI.Domain\\BlogWebAPI.Domain.csproj",
+        "projectPath": "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Core\\BlogWebAPI.Domain\\BlogWebAPI.Domain.csproj",
         "packagesPath": "C:\\Users\\testinium\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Core\\BlogWebAPI.Domain\\obj\\",
+        "outputPath": "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Core\\BlogWebAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\testinium\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -116,14 +116,14 @@
         }
       }
     },
-    "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Infrastructure\\BlogWebAPI.Persistence\\BlogWebAPI.Persistence.csproj": {
+    "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Infrastructure\\BlogWebAPI.Persistence\\BlogWebAPI.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Infrastructure\\BlogWebAPI.Persistence\\BlogWebAPI.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Infrastructure\\BlogWebAPI.Persistence\\BlogWebAPI.Persistence.csproj",
         "projectName": "BlogWebAPI.Persistence",
-        "projectPath": "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Infrastructure\\BlogWebAPI.Persistence\\BlogWebAPI.Persistence.csproj",
+        "projectPath": "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Infrastructure\\BlogWebAPI.Persistence\\BlogWebAPI.Persistence.csproj",
         "packagesPath": "C:\\Users\\testinium\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Infrastructure\\BlogWebAPI.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Infrastructure\\BlogWebAPI.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\testinium\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,8 +140,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Core\\BlogWebAPI.Application\\BlogWebAPI.Application.csproj": {
-                "projectPath": "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Core\\BlogWebAPI.Application\\BlogWebAPI.Application.csproj"
+              "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Core\\BlogWebAPI.Application\\BlogWebAPI.Application.csproj": {
+                "projectPath": "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Core\\BlogWebAPI.Application\\BlogWebAPI.Application.csproj"
               }
             }
           }
@@ -174,14 +174,14 @@
         }
       }
     },
-    "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Presentation\\BlogWebAPI.API\\BlogWebAPI.API.csproj": {
+    "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Presentation\\BlogWebAPI.API\\BlogWebAPI.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Presentation\\BlogWebAPI.API\\BlogWebAPI.API.csproj",
+        "projectUniqueName": "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Presentation\\BlogWebAPI.API\\BlogWebAPI.API.csproj",
         "projectName": "BlogWebAPI.API",
-        "projectPath": "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Presentation\\BlogWebAPI.API\\BlogWebAPI.API.csproj",
+        "projectPath": "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Presentation\\BlogWebAPI.API\\BlogWebAPI.API.csproj",
         "packagesPath": "C:\\Users\\testinium\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Presentation\\BlogWebAPI.API\\obj\\",
+        "outputPath": "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Presentation\\BlogWebAPI.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\testinium\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -198,11 +198,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Core\\BlogWebAPI.Application\\BlogWebAPI.Application.csproj": {
-                "projectPath": "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Core\\BlogWebAPI.Application\\BlogWebAPI.Application.csproj"
+              "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Core\\BlogWebAPI.Application\\BlogWebAPI.Application.csproj": {
+                "projectPath": "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Core\\BlogWebAPI.Application\\BlogWebAPI.Application.csproj"
               },
-              "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Infrastructure\\BlogWebAPI.Persistence\\BlogWebAPI.Persistence.csproj": {
-                "projectPath": "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Infrastructure\\BlogWebAPI.Persistence\\BlogWebAPI.Persistence.csproj"
+              "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Infrastructure\\BlogWebAPI.Persistence\\BlogWebAPI.Persistence.csproj": {
+                "projectPath": "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Infrastructure\\BlogWebAPI.Persistence\\BlogWebAPI.Persistence.csproj"
               }
             }
           }

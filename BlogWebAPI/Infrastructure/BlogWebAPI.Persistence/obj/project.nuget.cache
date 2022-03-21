@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hf+52e0b+jIaXDqPZ/Xs9UWV95mWIY68ZMIFwMQ44V2Y/fxKPLRm9ZfxaASK84P4WHYUNjD1ua8NyTj6n6SS5Q==",
+  "dgSpecHash": "pPn4MDVvmihbaOjY2svEjqWGOQx3ZWCLvT2vhRgEFR9uPwcvDoWAqDgqS75ih8aouMVUVoBE1faQXgdTUuwUXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Infrastructure\\BlogWebAPI.Persistence\\BlogWebAPI.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Infrastructure\\BlogWebAPI.Persistence\\BlogWebAPI.Persistence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

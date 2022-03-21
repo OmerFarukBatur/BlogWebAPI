@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jd29VPfZJzTwq8kgwQhtr25BkB/bWccJrR2JY0Nih6rPRTTSIoSssmnWZv+QcCT8BZRJ2nFwp/lpebmrP1xxyQ==",
+  "dgSpecHash": "sAOfnYHsx4qXz6cBknzit6DlT7a6o/Q6qfUUGaH0fmHrWfcxzhRlGY1ilxG2dFdFNlzmSV7fd7Gs8JBjhMnWPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\Presentation\\BlogWebAPI.API\\BlogWebAPI.API.csproj",
+  "projectFilePath": "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\Presentation\\BlogWebAPI.API\\BlogWebAPI.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\testinium\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\testinium\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
