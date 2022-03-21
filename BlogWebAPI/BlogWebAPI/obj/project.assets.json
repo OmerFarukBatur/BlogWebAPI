@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\BlogWebAPI\\BlogWebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\BlogWebAPI\\BlogWebAPI.csproj",
       "projectName": "BlogWebAPI",
-      "projectPath": "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\BlogWebAPI\\BlogWebAPI.csproj",
+      "projectPath": "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\BlogWebAPI\\BlogWebAPI.csproj",
       "packagesPath": "C:\\Users\\testinium\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\testinium\\source\\repos\\BlogWebAPI\\BlogWebAPI\\obj\\",
+      "outputPath": "C:\\Users\\testinium\\BlogWebAPI\\BlogWebAPI\\BlogWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\testinium\\AppData\\Roaming\\NuGet\\NuGet.Config",
