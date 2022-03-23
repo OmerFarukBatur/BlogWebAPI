@@ -1,0 +1,15 @@
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Core\BlogWebAPI.Application\obj\Debug\net6.0\BlogWebAPI.Application.csproj.AssemblyReference.cache
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Core\BlogWebAPI.Application\obj\Debug\net6.0\BlogWebAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Core\BlogWebAPI.Application\obj\Debug\net6.0\BlogWebAPI.Application.AssemblyInfoInputs.cache
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Core\BlogWebAPI.Application\obj\Debug\net6.0\BlogWebAPI.Application.AssemblyInfo.cs
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Core\BlogWebAPI.Application\obj\Debug\net6.0\BlogWebAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Core\BlogWebAPI.Application\bin\Debug\net6.0\BlogWebAPI.Application.deps.json
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Core\BlogWebAPI.Application\bin\Debug\net6.0\BlogWebAPI.Application.dll
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Core\BlogWebAPI.Application\bin\Debug\net6.0\BlogWebAPI.Application.pdb
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Core\BlogWebAPI.Application\bin\Debug\net6.0\BlogWebAPI.Domain.dll
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Core\BlogWebAPI.Application\bin\Debug\net6.0\BlogWebAPI.Domain.pdb
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Core\BlogWebAPI.Application\obj\Debug\net6.0\BlogWebAPI.Application.csproj.CopyComplete
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Core\BlogWebAPI.Application\obj\Debug\net6.0\BlogWebAPI.Application.dll
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Core\BlogWebAPI.Application\obj\Debug\net6.0\refint\BlogWebAPI.Application.dll
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Core\BlogWebAPI.Application\obj\Debug\net6.0\BlogWebAPI.Application.pdb
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Core\BlogWebAPI.Application\obj\Debug\net6.0\ref\BlogWebAPI.Application.dll

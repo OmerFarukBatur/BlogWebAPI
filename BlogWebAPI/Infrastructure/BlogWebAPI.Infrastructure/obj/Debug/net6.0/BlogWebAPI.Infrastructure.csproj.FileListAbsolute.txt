@@ -1,0 +1,17 @@
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Infrastructure\obj\Debug\net6.0\BlogWebAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Infrastructure\obj\Debug\net6.0\BlogWebAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Infrastructure\obj\Debug\net6.0\BlogWebAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Infrastructure\obj\Debug\net6.0\BlogWebAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Infrastructure\obj\Debug\net6.0\BlogWebAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Infrastructure\bin\Debug\net6.0\BlogWebAPI.Infrastructure.deps.json
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Infrastructure\bin\Debug\net6.0\BlogWebAPI.Infrastructure.dll
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Infrastructure\bin\Debug\net6.0\BlogWebAPI.Infrastructure.pdb
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Infrastructure\bin\Debug\net6.0\BlogWebAPI.Application.dll
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Infrastructure\bin\Debug\net6.0\BlogWebAPI.Domain.dll
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Infrastructure\bin\Debug\net6.0\BlogWebAPI.Application.pdb
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Infrastructure\bin\Debug\net6.0\BlogWebAPI.Domain.pdb
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Infrastructure\obj\Debug\net6.0\BlogWebAPI.Infrastructure.csproj.CopyComplete
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Infrastructure\obj\Debug\net6.0\BlogWebAPI.Infrastructure.dll
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Infrastructure\obj\Debug\net6.0\refint\BlogWebAPI.Infrastructure.dll
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Infrastructure\obj\Debug\net6.0\BlogWebAPI.Infrastructure.pdb
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Infrastructure\obj\Debug\net6.0\ref\BlogWebAPI.Infrastructure.dll

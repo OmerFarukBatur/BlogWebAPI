@@ -1,0 +1,17 @@
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Persistence\obj\Debug\net6.0\BlogWebAPI.Persistence.csproj.AssemblyReference.cache
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Persistence\obj\Debug\net6.0\BlogWebAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Persistence\obj\Debug\net6.0\BlogWebAPI.Persistence.AssemblyInfoInputs.cache
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Persistence\obj\Debug\net6.0\BlogWebAPI.Persistence.AssemblyInfo.cs
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Persistence\obj\Debug\net6.0\BlogWebAPI.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Persistence\bin\Debug\net6.0\BlogWebAPI.Persistence.deps.json
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Persistence\bin\Debug\net6.0\BlogWebAPI.Persistence.dll
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Persistence\bin\Debug\net6.0\BlogWebAPI.Persistence.pdb
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Persistence\bin\Debug\net6.0\BlogWebAPI.Application.dll
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Persistence\bin\Debug\net6.0\BlogWebAPI.Domain.dll
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Persistence\bin\Debug\net6.0\BlogWebAPI.Application.pdb
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Persistence\bin\Debug\net6.0\BlogWebAPI.Domain.pdb
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Persistence\obj\Debug\net6.0\BlogWebAPI.Persistence.csproj.CopyComplete
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Persistence\obj\Debug\net6.0\BlogWebAPI.Persistence.dll
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Persistence\obj\Debug\net6.0\refint\BlogWebAPI.Persistence.dll
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Persistence\obj\Debug\net6.0\BlogWebAPI.Persistence.pdb
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Infrastructure\BlogWebAPI.Persistence\obj\Debug\net6.0\ref\BlogWebAPI.Persistence.dll
