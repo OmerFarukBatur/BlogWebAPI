@@ -7,12 +7,13 @@ using System.Threading.Tasks;
 
 namespace BlogWebAPI.Domain.Entities
 {
-    public class BlogAnalyze : BaseEntity
+    public class Image : BaseEntity
     {
-        public int TotaleScore { get; set; }
-        public int RaytingCount { get; set; }
+        public string ImageUrl { get; set; }
         public Guid BlogId { get; set; }
-        public Blog Blog { get; set; }
+        public Guid AboutId { get; set; }
 
+        public Blog Blog { get; set; }
+        public About About { get; set; }
     }
 }

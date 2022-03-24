@@ -9,13 +9,14 @@ namespace BlogWebAPI.Domain.Entities
 {
     public class Comment : BaseEntity
     {
-        public Guid UserId { get; set; }
         public string Title { get; set; }
         public string Content { get; set; }
         public int BlogScore { get; set; }
-
+        public Guid BlogId { get; set; }
+        public Guid AdminId { get; set; }
+        public Guid UserId { get; set; }
+        public Blog Blog { get; set; }
         public User User { get; set; }
-
-        //public Guid AdminId { get; set; }  yorumun yorumu olayı var
+        public Admin Admin { get; set; }
     }
 }

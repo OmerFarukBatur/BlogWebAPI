@@ -1,14 +1,15 @@
 ﻿using BlogWebAPI.Domain.Entities.Common;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BlogWebAPI.Domain.Entities
+namespace BlogWebAPI.Application.Repositories
 {
-    public class Images : BaseEntity
+    public interface IRepository<T> where T : BaseEntity 
     {
-        public string ImageUrl { get; set; }
+        DbSet<T> Table { get; }
     }
 }

@@ -30,3 +30,4 @@ C:\Users\testinium\BlogWebAPI\BlogWebAPI\Presentation\BlogWebAPI.API\obj\Debug\n
 C:\Users\testinium\BlogWebAPI\BlogWebAPI\Presentation\BlogWebAPI.API\obj\Debug\net6.0\BlogWebAPI.API.pdb
 C:\Users\testinium\BlogWebAPI\BlogWebAPI\Presentation\BlogWebAPI.API\obj\Debug\net6.0\BlogWebAPI.API.genruntimeconfig.cache
 C:\Users\testinium\BlogWebAPI\BlogWebAPI\Presentation\BlogWebAPI.API\obj\Debug\net6.0\ref\BlogWebAPI.API.dll
+C:\Users\testinium\BlogWebAPI\BlogWebAPI\Presentation\BlogWebAPI.API\obj\Debug\net6.0\BlogWebAPI.API.MvcApplicationPartsAssemblyInfo.cs
