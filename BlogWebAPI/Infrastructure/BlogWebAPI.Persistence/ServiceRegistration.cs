@@ -1,4 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using BlogWebAPI.Persistence.Repositories;
+using BlogWebAPI.Application.Repositories;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using BlogWebAPI.Persistence.Contexts;
 using System;
@@ -16,14 +18,32 @@ namespace BlogWebAPI.Persistence
             services.AddDbContext<BlogWebAPIDbContext>(options => options.UseOracle(Configuration.ConfigurationString));
             // oracle için ayrı extensions yüklendi diğer database ler kullanılacağı zaman onlara ait olanlar yüklenecek
 
-           /* services.AddScoped<ICustomerReadRepository, CustomerReadRepository>();
-            services.AddScoped<ICustomerWriteRepository, CustomerWriteRepository>();
+            services.AddScoped<IAboutReadRepository, AboutReadRepository>();
+            services.AddScoped<IAboutWriteRepository, AboutWriteRepository>();
 
-            services.AddScoped<IOrderReadRepository, OrderReadRepository>();
-            services.AddScoped<IOrderWriteRepository, OrderWriteRepository>();
+            services.AddScoped<IAdminReadRepository, AdminReadRepository>();
+            services.AddScoped<IAdminWriteRepository, AdminWriteRepository>();
 
-            services.AddScoped<IProducReadRepository, ProductReadRepository>();
-            services.AddScoped<IProductWriteRepository, ProductWriteRepository>(); */
+            services.AddScoped<IBlogReadRepository, BlogReadRepository>();
+            services.AddScoped<IBlogWriteRepository, BlogWriteRepository>();
+
+            services.AddScoped<IBlogAnalyzeReadRepository, BlogAnalyzeReadRepository>();
+            services.AddScoped<IBlogAnalyzeWriteRepository, BlogAnalyzeWriteRepository>();
+
+            services.AddScoped<ICategoryReadRepository, CategoryReadRepository>();
+            services.AddScoped<ICategoryWriteRepository, CategoryWriteRepository>();
+
+            services.AddScoped<ICommentReadRepository, CommentReadRepository>();
+            services.AddScoped<ICommentWriteRepository, CommentWriteRepository>();
+
+            services.AddScoped<IContactReadRepository, ContactReadRepository>();
+            services.AddScoped<IContactWriteRepository, ContactWriteRepository>();
+
+            services.AddScoped<IImageReadRepository, ImageReadRepository>();
+            services.AddScoped<IImageWriteRepository, ImageWriteRepository>();
+
+            services.AddScoped<IUserReadRepository, UserReadRepository>();
+            services.AddScoped<IUserWriteRepository, UserWriteRepository>();
         }
     }
 }
